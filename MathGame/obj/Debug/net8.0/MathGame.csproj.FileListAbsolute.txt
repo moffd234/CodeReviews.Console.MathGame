@@ -1,0 +1,15 @@
+/home/dan/Desktop/projects/C#/CSharp-Course/MathGame/bin/Debug/net8.0/MathGame
+/home/dan/Desktop/projects/C#/CSharp-Course/MathGame/bin/Debug/net8.0/MathGame.deps.json
+/home/dan/Desktop/projects/C#/CSharp-Course/MathGame/bin/Debug/net8.0/MathGame.runtimeconfig.json
+/home/dan/Desktop/projects/C#/CSharp-Course/MathGame/bin/Debug/net8.0/MathGame.dll
+/home/dan/Desktop/projects/C#/CSharp-Course/MathGame/bin/Debug/net8.0/MathGame.pdb
+/home/dan/Desktop/projects/C#/CSharp-Course/MathGame/obj/Debug/net8.0/MathGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/dan/Desktop/projects/C#/CSharp-Course/MathGame/obj/Debug/net8.0/MathGame.AssemblyInfoInputs.cache
+/home/dan/Desktop/projects/C#/CSharp-Course/MathGame/obj/Debug/net8.0/MathGame.AssemblyInfo.cs
+/home/dan/Desktop/projects/C#/CSharp-Course/MathGame/obj/Debug/net8.0/MathGame.csproj.CoreCompileInputs.cache
+/home/dan/Desktop/projects/C#/CSharp-Course/MathGame/obj/Debug/net8.0/MathGame.sourcelink.json
+/home/dan/Desktop/projects/C#/CSharp-Course/MathGame/obj/Debug/net8.0/MathGame.dll
+/home/dan/Desktop/projects/C#/CSharp-Course/MathGame/obj/Debug/net8.0/refint/MathGame.dll
+/home/dan/Desktop/projects/C#/CSharp-Course/MathGame/obj/Debug/net8.0/MathGame.pdb
+/home/dan/Desktop/projects/C#/CSharp-Course/MathGame/obj/Debug/net8.0/MathGame.genruntimeconfig.cache
+/home/dan/Desktop/projects/C#/CSharp-Course/MathGame/obj/Debug/net8.0/ref/MathGame.dll
