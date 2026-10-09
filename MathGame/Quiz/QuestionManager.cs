@@ -5,11 +5,12 @@ public static class QuestionManager {
   public static Question[] CreateQuestion(char op)
   {
     Question[] questions = new Question[5];
-    int MIN_RAND = op == '-' || op == '+' ? 50 : 5;
+    int minRand = op is '-' or '+' ? 50 : 5;
+    int maxRand = op is '-' or '+' ? 100 : 10;
 
     for(int i = 0; i < 5; i++) {
-      int num1 = Random.Shared.Next(1, 10);
-      int num2 = Random.Shared.Next(1, 10);
+      int num1 = Random.Shared.Next(minRand, maxRand);
+      int num2 = Random.Shared.Next(minRand, maxRand);
 
       if(op == '/')
       {

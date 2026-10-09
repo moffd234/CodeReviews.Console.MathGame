@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MathGame
-build_property.ProjectDir = /home/dan/Desktop/projects/C#/CSharp-Course/MathGame/
+build_property.ProjectDir = /home/dan/Desktop/projects/C#/CSharp-Course/CodeReviews.Console.MathGame/MathGame/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

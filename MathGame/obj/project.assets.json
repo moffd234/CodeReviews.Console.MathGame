@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/dan/Desktop/projects/C#/CSharp-Course/MathGame/MathGame.csproj",
+      "projectUniqueName": "/home/dan/Desktop/projects/C#/CSharp-Course/CodeReviews.Console.MathGame/MathGame/MathGame.csproj",
       "projectName": "MathGame",
-      "projectPath": "/home/dan/Desktop/projects/C#/CSharp-Course/MathGame/MathGame.csproj",
+      "projectPath": "/home/dan/Desktop/projects/C#/CSharp-Course/CodeReviews.Console.MathGame/MathGame/MathGame.csproj",
       "packagesPath": "/home/dan/.nuget/packages/",
-      "outputPath": "/home/dan/Desktop/projects/C#/CSharp-Course/MathGame/obj/",
+      "outputPath": "/home/dan/Desktop/projects/C#/CSharp-Course/CodeReviews.Console.MathGame/MathGame/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/dan/.nuget/NuGet/NuGet.Config"
