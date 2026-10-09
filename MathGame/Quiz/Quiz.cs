@@ -17,10 +17,10 @@ public class Quiz {
     string op = _console.GetValidInput("Enter a operator: + - * /", ["+", "-", "*", "/"]);
 
     Question[] questions = op switch {
-      "+" => QuestionManager.AdditionQuestions,
-      "-" => QuestionManager.SubtractionQuestions,
-      "*" => QuestionManager.MultiplicationQuestions,
-      "/" => QuestionManager.DivisionQuestions,
+      "+" => QuestionManager.CreateQuestion('+'),
+      "-" => QuestionManager.CreateQuestion('-'),
+      "*" => QuestionManager.CreateQuestion('*'),
+      "/" => QuestionManager.CreateQuestion('/'),
       _ => []
     };
 
